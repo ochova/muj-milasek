@@ -7,7 +7,7 @@
     body {background: url(http://www.decoraplast.cz/img/096_Kremove_bila.jpg);no-repeat scroll silver center bottom; font-size: 14pt}
 h1 {background: grey;Text-Transform: uppercase;font-family:Garamond;text-align:center}
 h2 { background: red;font-family:Garamond;font-style:italic;;text-align:center}
-.zanr {Text-Transform: uppercase;font-size: 45pt; background: red;text-align:}
+.zanr {Text-Transform: uppercase;font-size: 45pt; background: red;text-align:center}
 
 .autor {font-size: 15pt;font-style:italic;text-align:right}
 .zdroj {font-size: 15pt;font-style:italic;text-align:right}
@@ -42,7 +42,7 @@ h2 { background: red;font-family:Garamond;font-style:italic;;text-align:center}
       
       <aside>
         <blockquote>
-          „Čerti to zkrátka nemají lehké.“
+          <b>„Čerti to zkrátka nemají lehké.“</b>
         </blockquote>
       </aside>
 
@@ -92,5 +92,5 @@ h2 { background: red;font-family:Garamond;font-style:italic;;text-align:center}
     </section>
 
     <footer>
-      <p>Konec</p>
+      <p><b>Konec</b></p>
     </footer>
